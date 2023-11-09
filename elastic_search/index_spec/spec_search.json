@@ -1,0 +1,1 @@
+{"settings": {"number_of_shards": 3, "number_of_replicas": 1}, "mappings": {"dynamic": "true", "_source": {"enabled": "true"}, "properties": {"sanskrit": {"type": "text"}, "hindi": {"type": "text"}, "filename": {"type": "text"}}}}

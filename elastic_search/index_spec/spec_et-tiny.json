@@ -1,0 +1,1 @@
+{"settings": {"number_of_shards": 3, "number_of_replicas": 1}, "mappings": {"dynamic": "true", "_source": {"enabled": "true"}, "properties": {"hrk_title": {"type": "text"}, "sku": {"type": "text"}, "hrk_title_embedding": {"type": "dense_vector", "dims": 768}}}}
